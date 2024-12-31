@@ -35,8 +35,16 @@
 Роль: ML/DL - инженер
 
 ### Генератор новостных заголовков
-Описание:Создал модель для генерации заголовков по тексту новости. [Ссылка на проект](https://colab.research.google.com/drive/1fmOYIT38SkrzeSy-YCyiurx9ymqpRg8L?usp=sharing#scrollTo=SKpDD5TycSnh)
+Описание: Создал модель для генерации заголовков по тексту новости. [Ссылка на проект](https://colab.research.google.com/drive/1fmOYIT38SkrzeSy-YCyiurx9ymqpRg8L?usp=sharing#scrollTo=SKpDD5TycSnh)
 Стек: Python, numpy, pytorch, pandas, transformers.
+
+### QUESTION-ANSWERING 
+Описание: Дообучил модель BERT отвечать на вопросы. [Ссылка на проект](https://colab.research.google.com/drive/1lMl72ThuEYxCCav-GaPzU1-2V2CGx6dT?usp=sharing)
+Стек: Python, numpy, pytorch, transformers.
+
+### CARIES-DETECTOR
+Описание: Дообучил модель YOLO выявлять кариес на рентгеновских снимках. [Ссылка на проект](https://colab.research.google.com/drive/1yQW_25OkMEFbEbte_PNDKE3J4VTZlpVk?usp=sharing)
+Стек: Python, YOLO, ultralitycs, roboflow.
 
 
 
