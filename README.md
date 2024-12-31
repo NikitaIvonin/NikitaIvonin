@@ -30,12 +30,13 @@
 
 Стек: Python, SQLite, Llamaindex, matplotlib, pandas, RAG, OPEN AI.
 
-## Учебный опыт:
+### Учебный опыт:
 📌 PET-проекты
 Роль: ML/DL - инженер
 
-Описание: [Ссылка на проект](https://colab.research.google.com/drive/1fmOYIT38SkrzeSy-YCyiurx9ymqpRg8L?usp=sharing#scrollTo=SKpDD5TycSnh)
-Стек: Python, SQLite, Llamaindex, matplotlib, pandas, RAG, OPEN AI.
+# Генератор новостных заголовков
+Описание:Создал модель для генерации заголовков по тексту новости. [Ссылка на проект](https://colab.research.google.com/drive/1fmOYIT38SkrzeSy-YCyiurx9ymqpRg8L?usp=sharing#scrollTo=SKpDD5TycSnh)
+Стек: Python, numpy, pytorch, pandas, transformers.
 
 
 
