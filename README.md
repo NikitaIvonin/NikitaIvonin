@@ -6,6 +6,7 @@
 🌍 Я живу в Оренубрге
 👨‍🎓 Учусь в академии нейросетей The Founder
 📞 Вы можете связаться со мной по TG: [@NikitkaIvonin](https://t.me/NikitkaIvonin)
+                                   Почта: nivonin4@gmail.com
 
 👨‍💻 Обо мне:
 
